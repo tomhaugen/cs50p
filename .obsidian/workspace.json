@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture1.md",
+                "file": "week1/lecture1.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture1.md",
+                "file": "week1/lecture1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture1.md",
+                "file": "week1/lecture1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture1.md",
+                "file": "week1/lecture1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,9 +198,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "91351bbe5eed45b1",
+  "active": "e64c9f7ee587c048",
   "lastOpenFiles": [
     "week0/lecture0.md",
-    "lecture1.md"
+    "week1/lecture1.md"
   ]
 }
