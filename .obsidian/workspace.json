@@ -198,8 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e64c9f7ee587c048",
+  "active": "91351bbe5eed45b1",
   "lastOpenFiles": [
+    "week1/deep/deep.py",
+    "week1/deep",
     "week0/lecture0.md",
     "week1/lecture1.md"
   ]
