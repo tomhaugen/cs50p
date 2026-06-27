@@ -1,5 +1,5 @@
 # Prompt the user for input
+ans = input()
 
-# Convert the input to all lower case
-
-# Print the converted input to screen
+# Uses f-string to convert input to lowercase and print output to screen
+print(f"{ans.lower()}")
