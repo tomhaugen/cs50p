@@ -200,6 +200,8 @@
   },
   "active": "91351bbe5eed45b1",
   "lastOpenFiles": [
+    "week1/extensions/extensions.py",
+    "week1/extensions",
     "week1/bank/bank.py",
     "week1/bank",
     "week1/deep/deep.py",
